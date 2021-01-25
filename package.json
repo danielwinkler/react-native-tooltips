@@ -1,6 +1,6 @@
 {
-  "name": "react-native-tooltips",
-  "version": "1.0.2",
+  "name": "@danielwinkler/react-native-tooltips",
+  "version": "1.0.4",
   "description": "React Native: Native Tooltip View",
   "main": "RNTooltips.js",
   "homepage": "https://github.com/prscX/react-native-tooltips.git",
@@ -12,10 +12,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/prscX/react-native-tooltips.git"
+    "url": "https://github.com/danielwinkler/react-native-tooltips.git"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "prettier-pack": "0.0.8"
   },
